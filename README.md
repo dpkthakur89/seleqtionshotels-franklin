@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--seleqtionshotels-franklin--dpkthakur89.hlx.page/
-- Live: https:/main--seleqtionshotels-franklin--dpkthakur89.hlx.live/
+- Live: https://main--seleqtionshotels-franklin--dpkthakur89.hlx.live/
 
 ## Installation
 
